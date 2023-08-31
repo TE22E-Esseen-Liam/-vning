@@ -1,0 +1,14 @@
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\bin\Debug\net7.0\Övning.exe
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\bin\Debug\net7.0\Övning.deps.json
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\bin\Debug\net7.0\Övning.runtimeconfig.json
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\bin\Debug\net7.0\Övning.dll
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\bin\Debug\net7.0\Övning.pdb
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.AssemblyInfoInputs.cache
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.AssemblyInfo.cs
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.csproj.CoreCompileInputs.cache
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.dll
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\refint\Övning.dll
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.pdb
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\Övning.genruntimeconfig.cache
+c:\Users\liam.esseen\Documents\Programmering\Övning\Övning\obj\Debug\net7.0\ref\Övning.dll
